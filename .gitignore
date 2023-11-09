@@ -1,0 +1,25 @@
+# Logs
+accelerometer-react-app/logs
+accelerometer-react-app/*.log
+accelerometer-react-app/npm-debug.log*
+accelerometer-react-app/yarn-debug.log*
+accelerometer-react-app/yarn-error.log*
+accelerometer-react-app/pnpm-debug.log*
+accelerometer-react-app/lerna-debug.log*
+
+accelerometer-react-app/node_modules
+accelerometer-express-app/node_modules
+accelerometer-react-app/dist
+accelerometer-react-app/dist-ssr
+accelerometer-react-app/*.local
+
+# Editor directories and files
+accelerometer-react-app/.vscode/*
+accelerometer-react-app/!.vscode/extensions.json
+accelerometer-react-app/.idea
+accelerometer-react-app/.DS_Store
+accelerometer-react-app/*.suo
+accelerometer-react-app/*.ntvs*
+accelerometer-react-app/*.njsproj
+accelerometer-react-app/*.sln
+accelerometer-react-app/*.sw?
